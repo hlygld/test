@@ -1,3 +1,3 @@
 # test
 Java Projects
---- bu bir deneme reposudur.
+bu bir deneme reposudur.
